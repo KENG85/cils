@@ -18,7 +18,7 @@ header("Access-Control-Allow-Origin: *");
         }
 
         // Set the recipient email address.
-        $recipient = "you@email.here";
+        $recipient = "kateengard@gmail.com";
 
         // Set the email subject.
         $subject = "HairSalon - Mail From $name";
